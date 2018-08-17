@@ -1,0 +1,11 @@
+C:\Users\dell\Desktop\mgh\Morning\morning-support\morning-support-facade\src\main\java\org\pussinboots\morning\support\entity\QiniuPutRet.java
+C:\Users\dell\Desktop\mgh\Morning\morning-support\morning-support-facade\src\main\java\org\pussinboots\morning\support\common\constant\OSSReturnCode.java
+C:\Users\dell\Desktop\mgh\Morning\morning-support\morning-support-facade\src\main\java\org\pussinboots\morning\support\common\util\FileUtils.java
+C:\Users\dell\Desktop\mgh\Morning\morning-support\morning-support-facade\src\main\java\org\pussinboots\morning\support\service\IBaseCloudStorageService.java
+C:\Users\dell\Desktop\mgh\Morning\morning-support\morning-support-facade\src\main\java\org\pussinboots\morning\support\entity\ImageLog.java
+C:\Users\dell\Desktop\mgh\Morning\morning-support\morning-support-facade\src\main\java\org\pussinboots\morning\support\common\enums\CloudServiceEnum.java
+C:\Users\dell\Desktop\mgh\Morning\morning-support\morning-support-facade\src\main\java\org\pussinboots\morning\support\service\IAliyunCloudStorageService.java
+C:\Users\dell\Desktop\mgh\Morning\morning-support\morning-support-facade\src\main\java\org\pussinboots\morning\support\factory\CloudStorageFactory.java
+C:\Users\dell\Desktop\mgh\Morning\morning-support\morning-support-facade\src\main\java\org\pussinboots\morning\support\service\IImageLogService.java
+C:\Users\dell\Desktop\mgh\Morning\morning-support\morning-support-facade\src\main\java\org\pussinboots\morning\support\service\IQiniuCloudStorageService.java
+C:\Users\dell\Desktop\mgh\Morning\morning-support\morning-support-facade\src\main\java\org\pussinboots\morning\support\common\exception\OSSException.java

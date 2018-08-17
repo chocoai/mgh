@@ -1,0 +1,11 @@
+后台管理系统
+http://localhost:8080/login
+账号：admin 
+密码：123456
+
+
+电子商城系统
+http://localhost:8080/morning/index
+账号：810170512@qq.com 
+密码：xh2013212542
+
